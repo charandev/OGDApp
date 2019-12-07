@@ -1,0 +1,1 @@
+package com.mindtree.tripadvisor.searchhotel.service.impl;

@@ -1,0 +1,4 @@
+com\mindtree\orchardappcore\controller\RepoController.class
+com\mindtree\orchardappcore\OrchardAppCoreApplication.class
+com\mindtree\orchardappcore\entity\User.class
+com\mindtree\orchardappcore\repository\UserRepository.class
